@@ -4,7 +4,11 @@
   "submission": {
     "exclude": [
       ".vscode",
-      "project"
+      ".theia",
+      "project",
+      ".bloop",
+      ".metals",
+      "target"
     ]
   },
   "features": {
